@@ -15,10 +15,8 @@
     <img src="https://komarev.com/ghpvc/?username=ReaVNaiL&style=for-the-badge&color=07b88e" height=25>
   </a>
 </p>
-
 </br>
-<h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
-<h1>Languages</h1>
+<h1 align="center">Languages</h1>
 <p align="center">
   </br>
   <!-- https://www.svgrepo.com/ for Icons-->
@@ -31,7 +29,7 @@
   <code><img title="CSS" height="35" src="./icons/css.svg"></code>
   <code><img title="HTML" height="35" src="./icons/html.svg"></code>
 </p>
-<h1>Frameworks and Databases</h1>
+<h1 align="center">Frameworks and Databases</h1>
 <p align="center">
   </br>
   <code><img title="Node.JS" height="35" src="./icons/node_js.svg"></code>
@@ -43,11 +41,9 @@
   <code><img title="MongoDB" height="35" src="./icons/mongodb.svg"></code>
   <code><img title="SQLite" height="35" src="./icons/sqlite.svg"></code>
 </p>
-<h1>Technologies and Tools</h1>
+<h1 align="center">Technologies and Tools</h1>
 <p align="center">
   </br>
-
-  
   <code><img title="Kubernetes" height="35" src="./icons/kubernetes.svg"></code>
   <code><img title="Docker" height="35" src="./icons/docker.svg"></code>
   <code><img title="Anaconda" height="35" src="./icons/anaconda.svg"></code>
@@ -57,27 +53,9 @@
   <code><img title="Excel" height="35" src="./icons/excel.svg"></code>
   <code><img title="Numpy" height="35" src="./icons/numpy.svg"></code>
   <code><img title="Pandas" height="35" src="./icons/pandas.svg"></code>
-
-      
-          
-                     
-
-
-        
 </p>
-<p align="center">
-  <code><img title="CSS" height="35" src="./icons/css.svg"></code>
-  <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
-  <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
-  <code><img title="SQL Server" height="35" src="./icons/sql.svg"></code>
-  <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
-  <code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
-  <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
-  <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
-  <code><img title="Unity" height="35" src="./icons/unity.svg"></code>
-  <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
-</p>
-
+    
+<!-- 
 </br>
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
@@ -91,3 +69,4 @@
 <p align="center">
   <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
 </p>
+-->
