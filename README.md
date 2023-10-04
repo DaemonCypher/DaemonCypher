@@ -1,14 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+💬+Hello+Stranger+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Venue+🔻+.+.+.;.+.+.+⚠️+Make+Yourself+At+Home+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05F7F4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello+Stranger+%F0%9F%91%8B;Nice+to+Meetcha+!;%F0%9F%98%81+Let's+Have+a+Conversation+%F0%9F%98%81" alt="Typing SVG" /></a>
+</p>
 
 <h1 align="center">Intro</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/sorrow.dada/"><img src="https://img.shields.io/badge/car_instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/danielmayab/">
+  <a href="https://www.linkedin.com/in/williamyangumn2023">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <!--   <a href="https://www.mayadan.com/">
     <img src="https://img.shields.io/badge/My_Portfolio-17202C.svg?&style=for-the-badge&logo=react&logoColor=white" height=25></a> -->
-  <a href="https://github.com/ReaVNaiL">
+  <a href="https://github.com/DaemonCypher/DaemonCypher">
     <img src="https://komarev.com/ghpvc/?username=ReaVNaiL&style=for-the-badge&color=07b88e" height=25>
   </a>
 </p>
@@ -17,14 +18,13 @@
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
 <p align="center">
   </br>
+  <code><img title="Python" height="35" src="./icons/python.svg"></code>
   <code><img title="C Programming" height="35" src="./icons/c.svg"></code>
   <code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
-  <code><img title="C# Programming" height="35" src="./icons/c_sharp.svg"></code>
-  <code><img title=".NET Framework" height="35" src="./icons/.net.svg"></code>
-  <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
+  
   <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
+  <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
   <code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
-  <code><img title="Python" height="35" src="./icons/python.svg"></code>
   <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
   <code><img title="VB.NET" height="35" src="./icons/vb_net.png"></code>
 </p>
