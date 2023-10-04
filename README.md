@@ -1,6 +1,8 @@
+<!--https://readme-typing-svg.demolab.com/demo/-->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05F7F4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello+Stranger+%F0%9F%91%8B;Nice+to+Meetcha+!;%F0%9F%98%81+Let's+Have+a+Conversation+%F0%9F%98%81" alt="Typing SVG" /></a>
 </p>
+
 
 <h1 align="center">Intro</h1>
 
@@ -16,17 +18,52 @@
 
 </br>
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
+<h1>Languages</h1>
 <p align="center">
   </br>
+  <!-- https://www.svgrepo.com/ for Icons-->
   <code><img title="Python" height="35" src="./icons/python.svg"></code>
-  <code><img title="C Programming" height="35" src="./icons/c.svg"></code>
-  <code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
-  
-  <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
+  <code><img title="C" height="35" src="./icons/c.svg"></code>
+  <code><img title="C++" height="35" src="./icons/c++.svg"></code>
+  <code><img title="Java" height="35" src="./icons/java.svg"></code>
+  <code><img title="Ocaml" height="35" src="./icons/ocaml.svg"></code>
   <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
-  <code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
-  <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
-  <code><img title="VB.NET" height="35" src="./icons/vb_net.png"></code>
+  <code><img title="CSS" height="35" src="./icons/css.svg"></code>
+  <code><img title="HTML" height="35" src="./icons/html.svg"></code>
+</p>
+<h1>Frameworks and Databases</h1>
+<p align="center">
+  </br>
+  <code><img title="Node.JS" height="35" src="./icons/node_js.svg"></code>
+  <code><img title="Express.JS" height="35" src="./icons/express_js.svg"></code>
+  <code><img title="Flask" height="35" src="./icons/flask.svg"></code>
+  <code><img title="Express" height="35" src="./icons/express.svg"></code>
+  <code><img title="GraphQL" height="35" src="./icons/graphql.svg"></code>
+  <code><img title="PostgreSQL" height="35" src="./icons/postgresql.svg"></code>
+  <code><img title="MongoDB" height="35" src="./icons/mongodb.svg"></code>
+  <code><img title="SQLite" height="35" src="./icons/sqlite.svg"></code>
+</p>
+<h1>Technologies and Tools</h1>
+<p align="center">
+  </br>
+
+  
+  <code><img title="Kubernetes" height="35" src="./icons/kubernetes.svg"></code>
+  <code><img title="Docker" height="35" src="./icons/docker.svg"></code>
+  <code><img title="Anaconda" height="35" src="./icons/anaconda.svg"></code>
+  <code><img title="Vscode" height="35" src="./icons/vscode.svg"></code>
+  <code><img title="Git" height="35" src="./icons/git.svg"></code>
+  <code><img title="GitLab" height="35" src="./icons/gitlab.svg"></code>
+  <code><img title="Excel" height="35" src="./icons/excel.svg"></code>
+  <code><img title="Numpy" height="35" src="./icons/numpy.svg"></code>
+  <code><img title="Pandas" height="35" src="./icons/pandas.svg"></code>
+
+      
+          
+                     
+
+
+        
 </p>
 <p align="center">
   <code><img title="CSS" height="35" src="./icons/css.svg"></code>
@@ -34,7 +71,6 @@
   <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
   <code><img title="SQL Server" height="35" src="./icons/sql.svg"></code>
   <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
-  <code><img title="Git" height="35" src="./icons/git.svg"></code>
   <code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
   <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
   <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
