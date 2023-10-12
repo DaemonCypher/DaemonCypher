@@ -31,9 +31,9 @@
   <code><img title="C++" height="35" src="./icons/c++.svg"></code>
   <code><img title="Java" height="35" src="./icons/java.svg"></code>
   <code><img title="Ocaml" height="35" src="./icons/ocaml.svg"></code>
-  <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
+   <!--<code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
   <code><img title="CSS" height="35" src="./icons/css.svg"></code>
-  <code><img title="HTML" height="35" src="./icons/html.svg"></code>
+  <code><img title="HTML" height="35" src="./icons/html.svg"></code>-->
 </p>
 <h1 align="center">Frameworks and Databases</h1>
 <p align="center">
