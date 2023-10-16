@@ -58,6 +58,9 @@
   <code><img title="Excel" height="35" src="./icons/excel.svg"></code>
   <code><img title="Numpy" height="35" src="./icons/numpy.svg"></code>
   <code><img title="Pandas" height="35" src="./icons/pandas.svg"></code>
+  <code><img title="Keras" height="35" src="./icons/keras.svg"></code>
+  <code><img title="Grafana" height="35" src="./icons/grafana.svg"></code>
+  <code><img title="Pytorch" height="35" src="./icons/pytorch.svg"></code>
 </p>
     
 <!--  TODO
