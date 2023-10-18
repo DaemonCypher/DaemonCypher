@@ -5,6 +5,14 @@
 
 <h1 align="center">Intro</h1>
 <p align="center">
+  My belief with technology is if you don't like it, fix it; doesn't exists, make it; don't know it, learn it.
+    
+  </a>
+</p>
+
+<h1 align="center">Links</h1>
+<p align="center">
+
   <a href="https://www.linkedin.com/in/williamyangumn2023">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
@@ -21,6 +29,7 @@
     
   </a>
 </p>
+
 </br>
 <h1 align="center">Languages</h1>
 <p align="center">
