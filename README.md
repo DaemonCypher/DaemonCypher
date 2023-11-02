@@ -5,7 +5,7 @@
 
 <h1 align="center">Intro</h1>
 <p align="center">
-  My belief with technology is if you don't like it, fix it; doesn't exists, make it; don't know it, learn it.
+  If you don't like it, fix it; doesn't exists, make it; don't know it, learn it.
     
   </a>
 </p>
