@@ -5,7 +5,7 @@
 
 <h1 align="center">Intro</h1>
 <p align="center">
-  A new grad Software Engineer passionate about ML/AI, and finance. With a focus on python backend development, optimization, and automation. My moto is:
+  A graduate Software developer passionate about ML/AI, and finance. With a focus on python backend development, optimization, and automation. My moto is:
   If you don't like it, fix it; doesn't exists, make it; don't know it, learn it.
     
   </a>
