@@ -45,6 +45,8 @@
   <code><img title="CSS" height="35" src="./icons/css.svg"></code>
   <code><img title="JS" height="35" src="./icons/js.svg"></code>
   <code><img title="SQL" height="35" src="./icons/sql.svg"></code>
+  <code><img title="Matlab" height="35" src="./icons/matlab.svg"></code>
+
 
 
    <!--<code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
@@ -53,30 +55,44 @@
 </p>
 <h1 align="center">Frameworks and Databases</h1>
 <p align="center">
-  </br>
-  <code><img title="Node.JS" height="35" src="./icons/node_js.svg"></code>
-  <code><img title="Express.JS" height="35" src="./icons/express.svg"></code>
-  <code><img title="Flask" height="35" src="./icons/flask.svg"></code>
-  <code><img title="GraphQL" height="35" src="./icons/graphql.svg"></code>
-  <code><img title="PostgreSQL" height="35" src="./icons/postgresql.svg"></code>
-  <code><img title="MongoDB" height="35" src="./icons/mongodb.svg"></code>
-  <code><img title="SQLite" height="35" src="./icons/sqlite.svg"></code>
+<code><img title="Node.JS" height="35" src="./icons/node_js.svg"></code>
+<code><img title="Express.JS" height="35" src="./icons/express.svg"></code>
+<code><img title="Flask" height="35" src="./icons/flask.svg"></code>
+<code><img title="Spring" height="35" src="./icons/spring.svg"></code>
+<code><img title="Vue.js" height="35" src="./icons/vue_js.svg"></code>
+<code><img title="React.js" height="35" src="./icons/react_js.svg"></code> 
+<code><img title="Svelte.js" height="35" src="./icons/svelte_js.svg"></code>
+<code><img title="Ember.js" height="35" src="./icons/ember_js.svg"></code>
+<code><img title="PostgreSQL" height="35" src="./icons/postgresql.svg"></code>
+<code><img title="MongoDB" height="35" src="./icons/mongodb.svg"></code>
+<code><img title="SQLite" height="35" src="./icons/sqlite.svg"></code>
+<code><img title="Firebase" height="35" src="./icons/firebase.svg"></code>
 </p>
-<h1 align="center">Technologies and Tools</h1>
+<h1 align="center">Testing, Monitoring & Tools</h1>
 <p align="center">
-  </br>
-  <code><img title="Kubernetes" height="35" src="./icons/kubernetes.svg"></code>
-  <code><img title="Docker" height="35" src="./icons/docker.svg"></code>
-  <code><img title="Anaconda" height="35" src="./icons/anaconda.svg"></code>
-  <code><img title="Vscode" height="35" src="./icons/vscode.svg"></code>
-  <code><img title="Git" height="35" src="./icons/git.svg"></code>
-  <code><img title="GitLab" height="35" src="./icons/gitlab.svg"></code>
-  <code><img title="Excel" height="35" src="./icons/excel.svg"></code>
-  <code><img title="Numpy" height="35" src="./icons/numpy.svg"></code>
-  <code><img title="Pandas" height="35" src="./icons/pandas.svg"></code>
-  <code><img title="Keras" height="35" src="./icons/keras.svg"></code>
-  <code><img title="Grafana" height="35" src="./icons/grafana.svg"></code>
-  <code><img title="Pytorch" height="35" src="./icons/pytorch.svg"></code>
+<code><img title="K6" height="35" src="./icons/k6.svg"></code>
+<code><img title="Grafana" height="35" src="./icons/grafana.svg"></code>
+<code><img title="Vscode" height="35" src="./icons/vscode.svg"></code>
+<code><img title="Intellij" height="35" src="./icons/intellij.svg"></code>
+<code><img title="Postman" height="35" src="./icons/postman.svg"></code>
+<code><img title="Excel" height="35" src="./icons/excel.svg"></code>
+<code><img title="Linux" height="35" src="./icons/linux.svg"></code>
+</p>
+<h1 align="center">Technologies</h1>
+<p align="center">
+<code><img title="Kubernetes" height="35" src="./icons/kubernetes.svg"></code>
+<code><img title="Docker" height="35" src="./icons/docker.svg"></code>
+<code><img title="GitLab" height="35" src="./icons/gitlab.svg"></code>
+<code><img title="GitHub" height="35" src="./icons/github.svg"></code>
+<code><img title="Git" height="35" src="./icons/git.svg"></code>
+<code><img title="Anaconda" height="35" src="./icons/anaconda.svg"></code>
+<code><img title="Numpy" height="35" src="./icons/numpy.svg"></code>
+<code><img title="Pandas" height="35" src="./icons/pandas.svg"></code>
+<code><img title="Keras" height="35" src="./icons/keras.svg"></code>
+<code><img title="TensorFlow" height="35" src="./icons/tensorflow.svg"></code>
+<code><img title="Pytorch" height="35" src="./icons/pytorch.svg"></code>
+<code><img title="GraphQL" height="35" src="./icons/graphql.svg"></code>
+
 </p>
     
 <!--  TODO
